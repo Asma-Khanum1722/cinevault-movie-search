@@ -13,12 +13,6 @@
 
 ### [👉 Click Here to Launch CineVault](https://cinevault-movie-search.vercel.app/)
 
----
-
-## 📸 Screenshots
-
-![App Screenshot](./public/screenshot.png)
-*(Note: Please add a screenshot to your public folder and name it 'screenshot.png')*
 
 ## ✨ Key Features
 
@@ -64,13 +58,3 @@ Get this running on your local machine in less than 2 minutes.
     npm run dev
     ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to checkout the repository and submit a pull request.
-
----
-
-<div align="center">
-  <p>Built with ❤️ by <b>Asma</b></p>
-  <p>© 2025 CineVault</p>
-</div>
